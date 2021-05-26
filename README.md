@@ -1,1 +1,2 @@
-### Hi there 👋 I'm voxal
+## Hey, I'm voxal
+I build applications that inspire.
